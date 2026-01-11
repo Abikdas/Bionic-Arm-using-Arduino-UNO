@@ -38,3 +38,4 @@ produce hand-like movements.
 
 ## Author
 Abik Das
+![Bionic Arm](https://github.com/user-attachments/assets/08c6c8b0-3216-4995-a98e-c603d939c499)
