@@ -3,7 +3,7 @@
 Servo servo[5]; 
 int servoPins[5] = { 3, 5, 8, 9, 10 };
 
-//ANGLES FOR SG90
+// ANGLES FOR SG90
 int openAngle[5] =  { 60, 0, 0, 0, 0 };
 int closeAngle[5] ={ 160, 170, 170, 170, 170};
 
